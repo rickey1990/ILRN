@@ -1,0 +1,9 @@
+ILRN-4-96 / ILRM CPU numerical verification — 12 October 2026
+
+Syntax: ilrn_reference.py, ilrn_fused_cpu.py, verify_ilrn.py all passed py_compile.
+
+Ran python verify_ilrn.py with CPU thread settings:
+context=32 logits max diff=9.54e-07; grad max diff=1.49e-08; top-1 agreement=100.00%; one-step parameter max diff=0.000111
+context=96 logits max diff=1.19e-06; grad max diff=7.45e-09; top-1 agreement=100.00%; one-step parameter max diff=1.71e-05
+
+Reported results are numerical agreement checks on synthetic data, not independent repetitions of news or code-text benchmarks.

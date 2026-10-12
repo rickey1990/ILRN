@@ -1,0 +1,31 @@
+ILRM LICENSING AND ILRN-4-96 NETWORK COMPOSITION
+Date: 12 October 2026
+Independent researcher | rickeyernest1990@gmail.com
+
+ILRM (Inverse Lag Recurrent Memory) is the underlying cell / memory design.
+ILRN-4-96 (Inverse Lag Recurrent Network) denotes the four-layer network
+containing four separately parameterised ILRM blocks, with pre/post LayerNorm,
+residuals, an input embedding and an output head.
+
+The following split noncommercial licensing comes from the original ILRM
+publication of 31 August 2026. The licences cover the applicable ILRM
+copyrightable materials and ILRM software, rather than licensing mathematical
+facts, abstract algorithms or the name ILRN itself.
+
+ILRM DOCUMENTATION / PRESENTATION: CC BY-NC 4.0
+For original ILRM explanatory text, figures, tables and presentation.
+https://creativecommons.org/licenses/by-nc/4.0/
+
+ILRM IMPLEMENTATION CODE / SOURCE LISTINGS: PolyForm Noncommercial 1.0.0
+For ILRM implementation code and source-code listings incorporating it,
+including ILRM blocks used in the ILRN implementation.
+https://polyformproject.org/licenses/noncommercial/1.0.0/
+
+Embedding ILRM material in an ILRN network does not remove any applicable
+licensing obligations. This notice does not assert a new blanket licence over
+every independently written ILRN-specific contribution. Neither source licence
+grants unrestricted commercial-use permission. For licensing enquiries:
+rickeyernest1990@gmail.com
+
+The notices apply only where relevant copyright or software rights exist,
+not to facts, formulas or ideas as such, and do not establish patent rights.
